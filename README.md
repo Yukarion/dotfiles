@@ -1,7 +1,8 @@
-#dotfiles
+# dotfiles
 現状はvim関連のみ submoduleもまだ未導入
-##やること
+## やること
 cloneして
-```cd dotfiles
-make```
+``` cd dotfiles
+make ```
+
 だけ
