@@ -1,3 +1,3 @@
-#!/bin/sh
-ln -sf ~/dotfiles/.vimrc ~/.vimrc
-ln -sf ~/dotfiles/.vim ~/.vim
+include:.vimrc , .vim
+    cp ~/dotfiles/.vimrc ~/.vimrc
+    cp ~/dotfiles/.vim ~/.vim
