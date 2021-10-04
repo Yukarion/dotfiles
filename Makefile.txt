@@ -1,3 +1,0 @@
-#!/bin/sh
-cp ~/dotfiles/.vimrc ~/.vimrc
-cp ~/dotfiles/.vim ~/.vim
