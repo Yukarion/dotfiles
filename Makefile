@@ -1,3 +1,2 @@
-include:.vimrc , .vim
+include:.vimrc
     cp ~/dotfiles/.vimrc ~/.vimrc
-    cp ~/dotfiles/.vim ~/.vim
